@@ -2,8 +2,6 @@
 
 Patrick Flow is a modern, minimalist, and stress-free To-Do web application designed to help users structure their day with clarity. By separating urgent daily tasks from future backlogs, it removes cognitive overload and keeps you focused on what matters most.
 
-🔗 **[Live Demo](https://callmepatrickdev.github.io/To-Do-List-/)**
-
 ---
 
 ## 🚀 Features
